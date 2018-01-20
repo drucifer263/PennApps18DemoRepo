@@ -1,2 +1,1 @@
-# PennApps18DemoRepo
 ReadMe
